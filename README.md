@@ -6,9 +6,6 @@
 - Une machine **Windows Server** (2019/2022 recommandé)  
 - Au moins un **client Windows 10/11** pour les tests  
 - Connexion réseau entre serveur et client
-
-Rendu pour vendredi 10 Octobre à 12h00 sur theophile.garin1@mail-formateur.net
-
 ---
 
 ## 🛠️ Étapes de l’atelier
