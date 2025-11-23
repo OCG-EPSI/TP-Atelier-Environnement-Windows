@@ -1,4 +1,4 @@
-# 🖥️ B3 - Atelier Environnement Windows
+# 🖥️ Atelier Environnement Windows
 
 ---
 
